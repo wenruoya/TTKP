@@ -1,0 +1,18 @@
+﻿  main.cpp
+E:\Study\test\TTKP\天天酷跑C\天天酷跑C\main.cpp(110,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\Study\test\TTKP\天天酷跑C\天天酷跑C\main.cpp(97,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Study\test\TTKP\天天酷跑C\天天酷跑C\main.cpp(107,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Study\test\TTKP\天天酷跑C\天天酷跑C\main.cpp(134,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Study\test\TTKP\天天酷跑C\天天酷跑C\main.cpp(155,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Study\test\TTKP\天天酷跑C\天天酷跑C\main.cpp(173,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Study\test\TTKP\天天酷跑C\天天酷跑C\main.cpp(319,52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Study\test\TTKP\天天酷跑C\天天酷跑C\main.cpp(404,65): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\Study\test\TTKP\天天酷跑C\天天酷跑C\main.cpp(440,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  tools.cpp
+E:\Study\test\TTKP\天天酷跑C\天天酷跑C\tools.cpp(17,17): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+E:\Study\test\TTKP\天天酷跑C\天天酷跑C\tools.cpp(175,97): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Study\test\TTKP\天天酷跑C\天天酷跑C\tools.cpp(175,67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\Study\test\TTKP\天天酷跑C\天天酷跑C\tools.cpp(175,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Study\test\TTKP\天天酷跑C\天天酷跑C\tools.cpp(175,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  天天酷跑C.vcxproj -> E:\Study\test\TTKP\天天酷跑C\x64\Debug\天天酷跑C.exe
